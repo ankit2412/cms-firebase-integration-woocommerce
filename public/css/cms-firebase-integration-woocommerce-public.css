@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.woocommerce-checkout .woocommerce-firebse-login,
+.woocommerce-checkout .woocommerce-firebase-login-toggle.user-logged-in,
+.woocommerce-checkout .cms-firebse-login-loader
+{display: none}
+.woocommerce-checkout .woocommerce-firebse-login .input-text.is-invalid{border: 3px solid red;}
+.woocommerce-checkout .woocommerce-firebse-login .error.invalid-feedback{color:red;}
+.woocommerce-checkout .woocommerce-firebse-login .button{margin: 15px 0;}
